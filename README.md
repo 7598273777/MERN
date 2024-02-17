@@ -1,4 +1,4 @@
-TASK 1 - CLASS 1 ( Introduction to Browser & web )
+TASK 1 - CLASS 1 (16/02/2024) -  ( Introduction to Browser & web )
 Here i have attached my Medium Blog POST RELATED TO TASKS 
 1. Write a blog on Difference between HTTP1.1 vs HTTP2
    The transition from HTTP/1.1 to HTTP/2 represents a significant leap in web protocol technology. HTTP/2's improvements in connection handling, header compression, binary protocol, server push, and prioritization result in a faster, more efficient web experience. As web developers and businesses continue to embrace these advancements, users can expect a more responsive and seamless online experience.
