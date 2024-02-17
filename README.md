@@ -1,13 +1,17 @@
 TASK 1 - CLASS 1 (16/02/2024) -  ( Introduction to Browser & web )
+
 Here i have attached my Medium Blog POST RELATED TO TASKS 
+
 1. Write a blog on Difference between HTTP1.1 vs HTTP2
    The transition from HTTP/1.1 to HTTP/2 represents a significant leap in web protocol technology. HTTP/2's improvements in connection handling, header compression, binary protocol, server push, and prioritization result in a faster, more efficient web experience. As web developers and businesses continue to embrace these advancements, users can expect a more responsive and seamless online experience.
 The way websites fetch and display content significantly impacts user experience, search engine ranking, and overall satisfaction. This is where HTTP protocols come into play, acting as the language web browsers and servers use to communicate
 Link to View:(https://medium.com/@jegan7798/difference-between-http1-vs-http2-b10797639b58)
 
+
 2 . Write a blog about objects and its internal representation in Javascript
     In JavaScript, objects are one of the most important data types, used to store collections of data and more complex entities. Internally is crucial for working effectively with JavaScript
 Link to View: (https://medium.com/@jegan7798/objects-and-internal-representation-in-javascript-7c942fc05a55) 
+
 
 3. Read about IP address, port, HTTP methods, MAC address
 
