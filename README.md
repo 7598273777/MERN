@@ -1,3 +1,9 @@
+TASK 2 - 19/02/2024
+Write  a Blog on Difference between Document and window objects 
+I have attched the Link of the blog below - Kindly verify it 
+( https://medium.com/@jegan7798/difference-between-document-and-window-objects-c4c290e13eb7)
+
+
 TASK 1 - CLASS 1 (16/02/2024) -  ( Introduction to Browser & web )
 
 Here i have attached my Medium Blog POST RELATED TO TASKS 
